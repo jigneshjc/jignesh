@@ -10,5 +10,5 @@ IElevator.cs = Elevator  interface
 Elevator.cs = Elevator class
 IController.cs = Controller interface
 Controller.cs = Controller class
-Utility.cs = static file stores global variables
 UnitTest.cs = Unit test file
+
