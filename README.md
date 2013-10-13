@@ -5,7 +5,7 @@ Jignesh
 
 List of files
 
-IFloor.cs   = Floor interfece
+IFloor.cs   = Floor interface
 
 Floor.cs   = Floor class
 
